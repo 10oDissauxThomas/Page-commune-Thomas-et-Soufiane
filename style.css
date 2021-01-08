@@ -1,0 +1,122 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+navbar-brand{
+    margin-right: 500px;
+}
+
+ h1{
+    margin-bottom: 50px;
+ }
+
+.image{
+    display: inline;
+}
+
+#image1{
+    margin-right: 10px;
+}
+
+#image2{
+    margin-left: 10px;
+}
+
+.fleche{
+    height: 5%;
+    width: 5%;
+    margin-right: 2%;
+}
+
+.fleche{
+    height: 5%;
+    width: 5%;
+    margin-left: 2%;
+}
+
+.userDix{
+    height: 8%;
+    width: 8%;
+    margin-right: 2%;
+}
+
+.userSouf{
+    height: 9%;
+    width: 9%;
+    margin-right: 2%;
+}
+
+#firstimage:hover{ 
+    transform: scale(1.1);
+}
+
+#secondimage:hover{ 
+    transform: scale(1.1);
+}
+
+nav {
+    height: 10.8vh;
+}
+
+.dtImage, .soufImage{
+    margin-right: 1%;
+    height: 38px;
+    width: 38px;
+}
+
+.hexa, .cuicui{
+    height: 45px;
+    width: 45px;
+}
+
+.grandHexa{
+    height: 400px;
+    width: 300px;
+}
+
+.grandNature{
+    height: 400px; 
+    width: 300px;
+}
+
+/* titre catégorie */
+
+.title {
+    font-size: 50px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    font-size: 19px;
+}
+
+p {
+    font-size: 19px;
+}
+
+.badge{
+    font-size: x-large;
+}
+
+
+/* Images */
+
+.effets{
+    height: 142px;
+    width: 142px;
+}
+
+/* header */
+
+header{
+    margin-top: 5.3%;
+    text-align: center;
+}
+
+.texteHeader{
+    font-size: 25px;
+}
